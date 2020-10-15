@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="task_dnf_gsh_3nb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Lightnening
+        toaster<?oxy_custom_end?></title>
+    <shortdesc>the lightning toaster<sup>TM</sup> is a double slot, stainless steel
+        toaster.</shortdesc>
+    <taskbody>
+        <context><p/>the lightning toaster<sup>TM</sup> comes with timer dial and a bagal mode. have
+            perfect slice of delight with your favorite jam or butter</context>
+    </taskbody>
+</task>
