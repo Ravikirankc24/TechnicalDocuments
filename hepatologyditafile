@@ -1,0 +1,213 @@
+
+Dita Map
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <topicref href="introfliver.dita"/>
+    <topicref href="anato.dita"/>
+    <topicref href="Hepatitis.dita"/>
+    <topicref href="typesof.dita"/>
+    <topicref href="ref.dita"/>
+</map>
+<.... <topicref href="introfliver.dita"/>..>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+    <topic id="topic_pct_4hf_3nb">
+        <title>Liver</title>
+        <body>
+            <ul id="ul_b1s_c3f_3nb">
+                <li>the liver is the largest organ of the body</li>
+                <li>it is located below the diaphragm in the right upper quadrant of the abdominal
+                    cavity</li>
+                <li>the liver is usppoerted into aright and left lobe separated by the falciform
+                    ligament</li>
+                <li>the working cells of the liver are known as hepatocytes</li>
+                <li>Hepatocytes have a unique capacity to reproduce in response to liver injury</li>
+            </ul>
+            <section id="section_bmv_n3f_3nb">
+                <title>Functions of Liver</title>
+                <p>the Liver is metabolically active organ responsible for many vital life functions
+                    the primary functions of liver are:</p>
+                <ul id="ul_njw_r3f_3nb">
+                    <li>Bile production and excretion</li>
+                    <li>Excretion bilirubin, cholestral, hormones and drugs</li>
+                    <li>Metabolism of fats, protiens and Carbohydrates</li>
+                    <li>Enzyme activation</li>
+                    <li>Storage of glycogen, vitamins and minerals</li>
+                    <li>Blood detoxification and Purification</li>
+                </ul>
+            </section>
+            <section id="section_erm_1jf_3nb">
+                <title>Disease of Liver</title>
+                <p>the liver supports almost everyorgan in the body and is vital for survival,
+                    because of the strategic location and multidimensional functions, the liver is
+                    also prone to many disease</p>
+                <p>the most common include:</p>
+                <ul id="ul_lsj_hjf_3nb">
+                    <li>Infections such as hepatitis A, B, C, D and E</li>
+                    <li>Alcohol damage</li>
+                    <li>Fatty liver </li>
+                    <li>Cirrhosis</li>
+                    <li>Cancer</li>
+                    <li>Drug Damage</li>
+                </ul>
+            </section>
+        </body>
+    </topic>
+</dita>
+
+
+ <topicref href="anato.dita"/>
+ 
+ 
+ 
+ <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+    <topic id="topic_gh1_tqf_3nb">
+        <title>Anatomy</title>
+        <body>
+            <p><image href="liver.jpg" width="500" height="350" id="image_wpw_wqf_3nb"/></p>
+        </body>
+    </topic>
+</dita>
+
+
+<topicref href="Hepatitis.dita"/>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+    <topic id="topic_n1g_j2f_3nb">
+        <title>Hepatitis</title>
+        <body>
+            <ul id="ul_alc_m2f_3nb">
+                <li>Hepatitis is an inflamation of the liver</li>
+                <li>Can be caused by <ul id="ul_sqm_42f_3nb">
+                        <li>Hepatitis Virus</li>
+                        <li>Genetic Disease</li>
+                        <li>Medications(Including OTC)</li>
+                        <li>Alcohol</li>
+                    </ul></li>
+            </ul>
+        </body>
+    </topic>
+</dita>
+.
+.
+<topicref href="typesof.dita"/>
+.
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+    <topic id="topic_akp_z2f_3nb">
+        <title>Types of Hepatitis</title>
+        <body>
+            <p>Although the most common types of viral hepatitis are HAV, HBV and HCV, some
+                clinicians had previously considered the acute and chronic phases of hepatic
+                infections as "types" of viral hepatitis. HAV was considered to be acute viral
+                hepatitis because the HAV infections seldom caused permanent liver damage that led
+                to hepatic (liver) failure. HBV and HCV produced chronic viral hepatitis. However,
+                these terms are outdated and not currently used as frequently because all of the
+                viruses that cause hepatitis may have acute phase symptoms (see symptoms below).
+                Prevention techniques and vaccinations have markedly reduced the current incidence
+                of common viral hepatitis infections; however, there remains a population of about 1
+                to 2 million people in the U.S. with chronic HBV, and about 3.5 million with chronic
+                HCV according to the CDC. Statistics are incomplete for determining how many new
+                infections occur each year; the CDC documented infections but then goes on to
+                estimate the actual numbers by further estimating the number of unreported
+                infections (see following sections and reference 1).</p>
+            <section id="section_jjs_hff_3nb">
+                <title><b>Hepatitis A (HAV)</b></title>
+                <p>In 2016, there were 2,007 new HAV cases reported to the CDC. The hepatitis caused
+                    by HAV is an acute illness (acute viral hepatitis) that never becomes chronic.
+                    At one time, hepatitis A was referred to as "infectious hepatitis" because it
+                    could be spread easily from person to person like other viral infections.
+                    Infection with hepatitis A virus can be spread through the ingestion of food or
+                    water, especially where unsanitary conditions allow water or food to become
+                    contaminated by human waste containing hepatitis A (the fecal-oral mode of
+                    transmission). Hepatitis A typically is spread among household members and close
+                    contacts through the passage of oral secretions (intimate kissing) or stool
+                    (poor hand washing). It also is common to have infection spread to customers in
+                    restaurants and among children and workers in day care centers if hand washing
+                    and sanitary precautions are not observed.</p>
+            </section>
+            <section id="section_sqp_lff_3nb">
+                <title><b>Hepatitis B (HBV)</b></title>
+                <p>There were 3,218 new cases of HBV infection estimated by the CDC in 2016 and more
+                    than 1,698 people died due to the consequences of chronic hepatitis B infection
+                    in the United States according to the CDC. HBV hepatitis was at one time
+                    referred to as "serum hepatitis," because it was thought that the only way HBV
+                    could spread was through blood or serum (the liquid portion of blood) containing
+                    the virus. It is now known that HBV can spread by sexual contact, the transfer
+                    of blood or serum through shared needles in drug abusers, accidental needle
+                    sticks with needles contaminated with infected blood, blood transfusions,
+                    hemodialysis, and by infected mothers to their newborns. The infection also can
+                    be spread by tattooing, body piercing, and sharing razors and toothbrushes (if
+                    there is contamination with infected blood). About 5% to 10% of patients with
+                    HBV hepatitis develop chronic HBV infection (infection lasting at least six
+                    months and often years to decades) and can infect others as long as they remain
+                    infected. Patients with chronic HBV infection also are at risk of developing
+                    cirrhosis, liver failure, and liver cancer. It is estimated that there are 2.2
+                    million people in the U.S. and 2 billion people worldwide who suffer with
+                    chronic HBV infections.</p>
+            </section>
+            <section id="section_e2p_4ff_3nb">
+                <title><b>Hepatitis C (HCV)</b></title>
+                <p>The CDC reported that there were 2,967 reported new cases of hepatitis C in 2016.
+                    The CDC reports that the actual number of acute cases are estimated to be 13.9
+                    times the number of reported cases in any year, thus, it is estimated that there
+                    were actually 41,200 acute hepatitis C cases occurring in 2016. HCV hepatitis
+                    was previously referred to as "non-A, non-B hepatitis," because the causative
+                    virus had not been identified, but it was known to be neither HAV nor HBV. HCV
+                    usually is spread by shared needles among drug abusers, blood transfusion,
+                    hemodialysis, and needle sticks. Approximately 75%-90% of transfusion-associated
+                    hepatitis is caused by HCV. Transmission of the virus by sexual contact has been
+                    reported, but is considered rare. An estimated 75% to 85% of patients with acute
+                    HCV infection develop chronic infection. Patients with chronic HCV infection can
+                    continue to infect others. Patients with chronic HCV infection are at risk for
+                    developing cirrhosis, liver failure, and liver cancer. It is estimated that
+                    there are about 3.5 million people with chronic HCV infection in the U.S.</p>
+            </section>
+            <section id="section_ngy_qff_3nb">
+                <title><b>Types D, E, and G Hepatitis</b></title>
+                <p>There also are viral hepatitis types D, E, and G. The most important of these at
+                    present is the hepatitis D virus (HDV), also known as the delta virus or agent.
+                    It is a small virus that requires concomitant infection with HBV to survive. HDV
+                    cannot survive on its own because it requires a protein that the HBV makes (the
+                    envelope protein, also called surface antigen) to enable it to infect liver
+                    cells. The ways in which HDV is spread are by shared needles among drug abusers,
+                    contaminated blood, and by sexual contact; essentially the same ways as HBV.</p>
+                <p>Individuals who already have chronic HBV infection can acquire HDV infection at
+                    the same time as they acquire the HBV infection, or at a later time. Those with
+                    chronic hepatitis due to HBV and HDV develop cirrhosis (severe liver scarring)
+                    rapidly. Moreover, the combination of HDV and HBV virus infection is very
+                    difficult to treat.</p>
+                <p><b>Hepatitis E </b>virus (HEV) is similar to HAV in terms of disease, and mainly
+                    occurs in Asia where it is transmitted by contaminated water.</p>
+                <p><b>Hepatitis G</b> virus (HGV, also termed GBV-C) was recently discovered and
+                    resembles HCV, but more closely, the flaviviruses. The virus and its effects are
+                    under investigation, and its role in causing disease in humans is unclear.</p>
+            </section>
+        </body>
+    </topic>
+</dita>
+
+    <topicref href="ref.dita"/>
+    <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+    <topic id="topic_zp1_ypf_3nb">
+        <title>Reference</title>
+        <body>
+            <p><xref href="https://www.healthline.com/human-body-maps/liver" format="html"
+                    scope="external"/></p>
+        </body>
+    </topic>
+</dita>
+
+    
+
