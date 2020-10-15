@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+    <topic id="topic_gh1_tqf_3nb">
+        <title>Anatomy</title>
+        <body>
+            <p><image href="liver.jpg" width="500" height="350" id="image_wpw_wqf_3nb"/></p>
+        </body>
+    </topic>
+</dita>

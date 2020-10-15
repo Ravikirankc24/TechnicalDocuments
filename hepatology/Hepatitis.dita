@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+    <topic id="topic_n1g_j2f_3nb">
+        <title>Hepatitis</title>
+        <body>
+            <ul id="ul_alc_m2f_3nb">
+                <li>Hepatitis is an inflamation of the liver</li>
+                <li>Can be caused by <ul id="ul_sqm_42f_3nb">
+                        <li>Hepatitis Virus</li>
+                        <li>Genetic Disease</li>
+                        <li>Medications(Including OTC)</li>
+                        <li>Alcohol</li>
+                    </ul></li>
+            </ul>
+        </body>
+    </topic>
+</dita>
